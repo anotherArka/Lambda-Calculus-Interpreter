@@ -1,7 +1,7 @@
 # Lambda Calculus Interpreter
 
-An interpreter for [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
-, implementing
+An interpreter for [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus),
+implementing
 [De-Bruijn indexing](https://en.wikipedia.org/wiki/De_Bruijn_index).
 It is written in [Haskell](https://www.haskell.org/).
 with the parser defined using
