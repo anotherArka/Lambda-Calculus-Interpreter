@@ -7,7 +7,7 @@ It is written in [Haskell](https://www.haskell.org/).
 with the parser defined using
 [Happy](https://www.haskell.org/happy/).
 This is a learning project,
-so the [author](arkasparko@gmail.com)
+so the [author](mailto: arkasparko@gmail.com)
 will be really grateful
 for bug reports and suggestions.
 
